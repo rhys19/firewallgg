@@ -9,24 +9,14 @@
 		"appealLink": "https://stoptheresellers.com",
 		"otherData": {}
 	},
-	{
-		"name": "TrollGuard",
-		"themeColor": "#8F2AFF",
-		"logoUrl": "https://trollguard.hyperz.world/assets/logo.png",
-		"active": true,
-		"requestUrl": "https://trollguard.hyperz.world/firewallgg/checkuser/",
-		"method": "get",
-		"appealLink": "https://trollguard.hyperz.world",
-		"otherData": {}
-	},
 	{	
-		"name": "SpeedBans",
+		"name": "ToxicityProtection",
 		"themeColor": "#0000FF",
 		"logoUrl": "https://i.imgur.com/yOttfRC.png",
 		"active": true,
-		"requestUrl": "https://speedbans.xyz/firewallgg/checkuser/",
+		"requestUrl": "https://toxicityprotection.com/api/v1/getuser/",
 		"method": "get",
-		"appealLink": "https://speedbans.xyz/appeal",
+		"appealLink": "https://toxicityprotection.com/appeal",
 		"otherData": {}
 	}
 ]
