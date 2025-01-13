@@ -14,7 +14,7 @@
 		"themeColor": "#0000FF",
 		"logoUrl": "https://i.imgur.com/yOttfRC.png",
 		"active": true,
-		"requestUrl": "https://toxicityprotection.com/api/v1/getuser/",
+		"requestUrl": "https://toxicityprotection.com/api/v1/isbanned/",
 		"method": "get",
 		"appealLink": "https://toxicityprotection.com/appeal",
 		"otherData": {}
