@@ -1,4 +1,14 @@
 [
+	{
+		"name": "Stop The Resellers",
+		"themeColor": "#DB6574",
+		"logoUrl": "https://stoptheresellers.com/assets/images/logo.png",
+		"active": true,
+		"requestUrl": "https://stoptheresellers.com/api/v1/checkUser/",
+		"method": "get",
+		"appealLink": "https://stoptheresellers.com",
+		"otherData": {}
+	},
 	{	
 		"name": "ToxicityProtection",
 		"themeColor": "#0000FF",
